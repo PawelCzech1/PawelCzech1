@@ -1,33 +1,35 @@
 # Hi, I'm Paweł Czechowicz  
-Aspiring Data Analyst passionate about discovering insights hidden in data.  
-Skilled in **Excel**, **SQL**, and **Tableau**, currently learning **Power BI**.  
-I develop my skills through hands-on projects focused on real-world data analysis.
+Data Analytics Engineer with a strong analytical mindset and experience in technical customer support.
+Skilled in SQL, Python, Pandas, Excel, and PostgreSQL.
+I develop practical data projects focused on data transformation, ETL processes, and real-world business challenges.
 
 
 
 ## 📂 Featured Project  
-🐾 **Predicting Animal Adoptions**  
-As part of my learning journey, I created a Tableau report analysing factors that influence animal adoptions in shelters.  
-The goal was to identify which animals have the highest chances of being adopted based on available data.  
-This project allowed me to improve my skills in data cleaning, visualisation, and storytelling.
+🐾 **Job Posting in Hungary**  
+Comprehensive analysis of the Hungarian job market based on job posting data, focused on hiring trends, skills demand, salary insights, and workforce dynamics using SQL, Python, and Pandas.
 
 
 
 ## 🧰 Tools & Skills  
-**Excel:** data cleaning, advanced formulas, PivotTables, dashboards  
-**SQL:** querying, joins, aggregations, and data extraction for analysis  
-**Tableau:** interactive dashboards, visual storytelling, data-driven insights  
-**Power BI (in progress):** data modelling, DAX basics, creating insightful visuals  
+ 
+**SQL:** complex queries, joins, aggregations, subqueries, and business-oriented data analysis  
+**Python:** data processing, automation, and ETL workflows
+**Pandas:**  data cleaning, transformation, merging, and exploratory analysis
+**PostgreSql / mySql:** database design, querying, and working with relational datasets  
+**Excel:** data preparation, PivotTables, advanced formulas, and validation 
+**Git & GitHub:** version control and project documentation
 
 
 
 ## 🧠 About Me  
-I’m detail-oriented, analytical, and focused on practical problem-solving.  
-My journey into data began with Excel and SQL, and I now explore data visualisation tools like Tableau and Power BI to turn numbers into meaningful stories.  
-I learn best by doing — every project helps me grow my analytical thinking and technical skills.
+I’m detail-oriented, analytical, and focused on practical problem-solving.
+My journey into data began with Excel and SQL and has since expanded to Python, Pandas, PostgreSQL, and ETL development.
+I learn best by building hands-on projects based on real-world datasets and business challenges.
 
 
 
 ## 🌍 Beyond Data  
-Outside of analytics, I’m passionate about animals — I share my home with four cats, who inspire me daily to combine empathy with analytical thinking.  
-Good data analysis, like good care, requires patience, curiosity, and consistency.
+Outside of data projects, I'm passionate about animal welfare and share my home with four cats.
+
+Caring for animals has taught me patience, attention to detail, and consistency — qualities that also support my approach to working with data.
