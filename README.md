@@ -6,9 +6,9 @@ I develop practical data projects focused on data transformation, ETL processes,
 
 
 ## 📂 Featured Project  
-🐾 **Job Posting in Hungary**  
-Comprehensive analysis of the Hungarian job market based on job posting data, focused on hiring trends, skills demand, salary insights, and workforce dynamics using SQL, Python, and Pandas.
+Projects focused on SQL, Python, Pandas, and data engineering concepts. Each project is based on real-world business scenarios and covers the complete analytical workflow, from data extraction and transformation to reporting and actionable insights.
 
+The portfolio demonstrates practical experience in working with relational databases, ETL processes, data cleaning, exploratory analysis, and business problem-solving using modern data tools.
 
 
 ## 🧰 Tools & Skills  
